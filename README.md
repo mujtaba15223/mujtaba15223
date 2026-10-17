@@ -60,10 +60,43 @@
 
 <h2 align="center">🎯 Current Goals</h2>
 
+<p align="center">
+  <i>Where I'm headed next, and what I'm working on to get there.</i>
+</p>
+
 <br>
 
-- 🧠 **Master Data Structures & Algorithms:** Build strong problem-solving fundamentals and write efficient, clean code
-- 🤖 **Complete my Machine Learning journey:** Move from regression analysis toward a well-rounded understanding of ML concepts
-- 🚀 **Build a real-world project:** Apply what I've learned to solve a practical problem from start to finish
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <h3>🧠</h3>
+      <b>Master DSA</b>
+      <br><br>
+      Build strong problem-solving fundamentals and write efficient, clean code.
+      <br><br>
+      <img src="https://img.shields.io/badge/Status-In_Progress-00F7FF?style=for-the-badge" alt="In Progress" />
+    </td>
+    <td align="center" width="300">
+      <h3>🤖</h3>
+      <b>Complete My ML Journey</b>
+      <br><br>
+      Grow from regression analysis into a well-rounded understanding of machine learning.
+      <br><br>
+      <img src="https://img.shields.io/badge/Status-In_Progress-00F7FF?style=for-the-badge" alt="In Progress" />
+    </td>
+    <td align="center" width="300">
+      <h3>🚀</h3>
+      <b>Build a Real-World Project</b>
+      <br><br>
+      Apply what I've learned to solve a practical problem from start to finish.
+      <br><br>
+      <img src="https://img.shields.io/badge/Status-Planned-A855F7?style=for-the-badge" alt="Planned" />
+    </td>
+  </tr>
+</table>
 
-- One step at a time. Consistent learning, practical building.
+<br>
+
+<p align="center">
+  <b>One step at a time. Consistent learning, practical building.</b>
+</p>
