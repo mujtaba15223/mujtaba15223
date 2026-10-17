@@ -74,7 +74,7 @@
       <br><br>
       Build strong problem-solving fundamentals and write efficient, clean code.
       <br><br>
-      <img src="https://img.shields.io/badge/Status-In_Progress-00F7FF?style=for-the-badge" alt="In Progress" />
+      <img src="https://img.shields.io/badge/Status-In_Progress-0891B2?style=for-the-badge" alt="In Progress" />
     </td>
     <td align="center" width="300">
       <h3>🤖</h3>
@@ -82,7 +82,7 @@
       <br><br>
       Grow from regression analysis into a well-rounded understanding of machine learning.
       <br><br>
-      <img src="https://img.shields.io/badge/Status-In_Progress-00F7FF?style=for-the-badge" alt="In Progress" />
+      <img src="https://img.shields.io/badge/Status-In_Progress-0891B2?style=for-the-badge" alt="In Progress" />
     </td>
     <td align="center" width="300">
       <h3>🚀</h3>
@@ -90,7 +90,7 @@
       <br><br>
       Apply what I've learned to solve a practical problem from start to finish.
       <br><br>
-      <img src="https://img.shields.io/badge/Status-Planned-A855F7?style=for-the-badge" alt="Planned" />
+      <img src="https://img.shields.io/badge/Status-Planned-7C3AED?style=for-the-badge" alt="Planned" />
     </td>
   </tr>
 </table>
