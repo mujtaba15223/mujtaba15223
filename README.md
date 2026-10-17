@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mujtaba15223/readme.md/main/intro.svg" width="750" alt="Animated introduction">
-</p>
+<div align="center">
+  <img src="./intro.svg" alt="Hey there! I'm Mohd Mujtaba - Full Stack Developer" />
+</div>
 
 <h2 align="center">👨‍💻 About Me</h2>
 
