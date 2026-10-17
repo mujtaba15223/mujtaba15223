@@ -57,3 +57,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Skill-Web_Scraping-8A2BE2?style=for-the-badge" alt="Web Scraping (Skill)" />
 </p>
+
+<h2 align="center">🎯 Current Goals</h2>
+
+<br>
+
+- 🧠 **Master Data Structures & Algorithms:** Build strong problem-solving fundamentals and write efficient, clean code
+- 🤖 **Complete my Machine Learning journey:** Move from regression analysis toward a well-rounded understanding of ML concepts
+- 🚀 **Build a real-world project:** Apply what I've learned to solve a practical problem from start to finish
+
+- One step at a time. Consistent learning, practical building.
